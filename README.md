@@ -7,7 +7,7 @@
 ## Welcome!
 
 First and foremost! Thank you for visiting SOHW repository. We wish you a successful deliberations and we are delighted to have you here. 😊
-This page ([README](https://github.com/SOHW/sohw.github.io/blob/master/README.md) file) is a hub which provides the overall view of the project. 
+This page ([README](https://github.com/SOHW/Blogs/blob/master/README.md) file) is a hub which provides the overall view of the project. 
 
 *	[What it is?](#what-it-is)
 *	[Why does this project exist?](#why-does-this-project-exist)
@@ -22,7 +22,7 @@ This page ([README](https://github.com/SOHW/sohw.github.io/blob/master/README.md
 
 SOHW is an open project seeks to bring the culture of openness among people, to come forward and share their technical skills with diverse set of people. The project is designed to guide people who joined the web with keen interest to update themselves towards the current trend by learning or to develop something for the betterment of the web.
 
-*Note: This project is being developed under the Mozilla Open Leadership Program, Round 5 and mentored by [Pranshu Khanna](). We used [Jekyll](https://jekyllrb.com/) with github to develop your website*
+*Note: This project is being developed under the Mozilla Open Leadership Program, Round 5 and mentored by [Pranshu Khanna](https://github.com/pransh15). The site was developed using [Jekyll](https://jekyllrb.com/) with github.
 
 ## Why does this project exist?
 
@@ -53,14 +53,14 @@ If you’re trying to learn something new and find it difficult to continue or e
 
 ## Contribution
 
-We need your help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated. If you’re interested in the project, feel free to open an [issue](https://github.com/SOHW/sohw.github.io/issues/new), create a PR, or just come say ''Hi''👋 and tell us more about yourself [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/).
+We need your help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated. If you’re interested in the project, feel free to open an [issue](https://github.com/SOHW/Blogs/issues/new), create a PR, or just come say ''Hi''👋 and tell us more about yourself [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/).
 
 ## Participation Guidelines
-Please read [CONTRIBUTING.md](https://github.com/SOHW/sohw.github.io/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/SOHW/Blogs/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License - you can see [LICENSE](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - you can see [LICENSE](https://github.com/SOHW/Blogs/blob/master/LICENSE) file for details.
 
 ## Reach Us
 
