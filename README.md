@@ -1,4 +1,4 @@
-![SOHW]( /assets/SOHW_Black.png )
+![SOHW]( /assets/images//SOHW_Black.png )
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues/new) 
