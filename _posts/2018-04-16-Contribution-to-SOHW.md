@@ -18,7 +18,7 @@ category: "Contribution to SOHW"
 First of all thanks for taking time to contribute for SOHW. Before you start, have a look at [README.md](https://github.com/SOHW/sohw.github.io/blob/master/README.md) and [CONTRIBUTING.md](https://github.com/SOHW/sohw.github.io/blob/master/CONTRIBUTING.md) file to know about how SOHW works.
 
 ### Step 1: Add yourself as a contributor for our repository
-* Navigate to `doc` ---> `assets` ---> `data` ---> `contributors.yml` in the [repository](https://github.com/SOHW/Blogs)
+* Navigate to `assets` ---> `data` ---> `contributors.yml` in the [repository](https://github.com/SOHW/Blogs)
 * Include yourself as a contributor as per the following format
 
 ~~~
@@ -29,7 +29,7 @@ First of all thanks for taking time to contribute for SOHW. Before you start, ha
 ~~~
 
 ### Step 2: To add a category
-* Navigate to `doc` ---> `assets` ---> `data` ---> `categories.yml`
+* Navigate to `assets` ---> `data` ---> `categories.yml`
 * Check whether the category that you want to contribute is included under categories.yml
 * If not, include the category that you wish to add.
 
@@ -38,10 +38,10 @@ First of all thanks for taking time to contribute for SOHW. Before you start, ha
 * This makes your own version of this project in your github repo
 * Make changes in your repo that is been forked from the main repo
 
-![Forking](https://im3.ezgif.com/tmp/ezgif-3-1b97043a1f.gif)
+![Forking](/assets/images/fork.gif)
 
 ### Step 4: To write a blog
-* Navigate to `doc` ---> `_post` in your forked repository
+* Navigate to `_post` in your forked repository
 * Click on `Create new file`
 * Enter the file name as per the following format
 > yyyy-mm-dd-name.md (name should not contain any space. Instead, add "-") e.g.2018-01-01-Hello-world.md
@@ -79,4 +79,4 @@ category: "Category name" (e.g. Rust)
 Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/). This opens a discussion around your project and lets the project lead know you are proposing changes. Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
 
 
-Hope it's helpfull :) Want to see something else added or report a bug? [Open an issue](https://github.com/SOHW/sohw.github.io/issues/new). Happy contributing!! Happy Global Sprint!!
+Hope it's helpfull :) Want to see something else added or report a bug? [Open an issue](https://github.com/SOHW/Blogs/issues/new). Happy contributing!! Happy Global Sprint!!
