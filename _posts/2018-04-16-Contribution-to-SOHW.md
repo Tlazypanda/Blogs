@@ -15,7 +15,9 @@ category: "Contribution to SOHW"
 
 ## Welcome!!
 
-First of all thanks for taking time to contribute for SOHW. Before you start, have a look at [README.md](https://github.com/SOHW/sohw.github.io/blob/master/README.md) and [CONTRIBUTING.md](https://github.com/SOHW/sohw.github.io/blob/master/CONTRIBUTING.md) file to know about how SOHW works.
+First of all thanks for taking time to contribute for SOHW. Before you start, have a look at [README.md](https://github.com/SOHW/Blogs/blob/master/README.md) and [CONTRIBUTING.md](https://github.com/SOHW/Blogs/blob/master/CONTRIBUTING.md) file to know about how SOHW works.
+
+
 
 ### Step 1: Add yourself as a contributor for our repository
 * Navigate to `assets` ---> `data` ---> `contributors.yml` in the [repository](https://github.com/SOHW/Blogs)
@@ -28,10 +30,14 @@ First of all thanks for taking time to contribute for SOHW. Before you start, ha
     description: about you (Ex: Contributor to Open Science, Bug reporter, designer, etc)
 ~~~
 
+
+
 ### Step 2: To add a category
 * Navigate to `assets` ---> `data` ---> `categories.yml`
 * Check whether the category that you want to contribute is included under categories.yml
 * If not, include the category that you wish to add.
+
+
 
 ### Step 3: Fork the Repository
 * [Fork](https://help.github.com/articles/fork-a-repo/) this repository
@@ -39,6 +45,8 @@ First of all thanks for taking time to contribute for SOHW. Before you start, ha
 * Make changes in your repo that is been forked from the main repo
 
 ![Forking](/assets/images/fork.gif)
+
+
 
 ### Step 4: To write a blog
 * Navigate to `_post` in your forked repository
@@ -70,13 +78,22 @@ category: "Category name" (e.g. Rust)
 ) can help your blogs to look just awesome
 * Click on `Commit new file`
 
+
+
+
 ### Step 5: Submit a Pull Request
 * Make sure that your forked repository is updated till now as like in master branch
 * Click on `Pull Request` ---> `New Pull request` 
 * The changes list will be shown down. Check once whether you have included all the files.
-* Click on ` Create Pull Request`
-
-Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/). This opens a discussion around your project and lets the project lead know you are proposing changes. Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
+* Click on `Create Pull Request`
 
 
-Hope it's helpfull :) Want to see something else added or report a bug? [Open an issue](https://github.com/SOHW/Blogs/issues/new). Happy contributing!! Happy Global Sprint!!
+
+Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/). This opens a discussion around the project and lets the project lead know you are proposing changes. Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable.
+
+
+Hope it's helpfull :) 
+
+Want to see something else added or report a bug? [Open an issue](https://github.com/SOHW/Blogs/issues/new). 
+
+Happy contributing!! Happy Global Sprinting :D
