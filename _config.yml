@@ -1,31 +1,60 @@
-# Dependencies
-markdown:	kramdown
-# Permalinks
-permalink:	/categories/:title
+name: SOHW
+description: SOHW is an open project which comes under Web Literacy. It offers resources for new-comers to step into the tech world
+meta_description: "Spread Open Healthy Web"
+gems: [jekyll-paginate, jekyll-gist]
+aboutPage: false
+blogPage: true
 
-# Setup
-title:            SOHW
-tagline:          'blogs'
-description:      'SOHW blogs to explore.'
-url:              http://sohw.github.io/Blogs
-baseurl:          
-commentsystem:    google
-disqus:           
 
-Organiser:
-  name:           Fahima Zulfath
-  twitter handle: FahimaZulfath
+highlighter: rouge
 
-paginate:         5
+paginate: 10
+paginate_path: "/page:num" 
+baseurl: /
+domain_name: 'http://sohw.github.io/Blogs'
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics: 
+
+#Disqus URL: https://spreadopenhealthyweb.disqus.com/
+disqus: true
+disqus_shortname: 'spreadopenhealthyweb'
+
+#Dependencies
+markdown: kramdown
+
+# Details for the RSS feed generator
+url:            'https://sohw.github.io'
+author:         'Fahima Zulfath'
+authorTwitter:  'FahimaZulfath'
+
+permalink:      /:categories/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
 
 # Custom vars
 icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 parallax:         false
-
-# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:  
 
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color:       7E9576
