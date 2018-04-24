@@ -1,4 +1,6 @@
-name: SOHW
+#setup
+title: SOHW Blogs
+tagline: ''
 description: SOHW is an open project which comes under Web Literacy. It offers resources for new-comers to step into the tech world
 meta_description: "Spread Open Healthy Web"
 gems: [jekyll-paginate, jekyll-gist]
